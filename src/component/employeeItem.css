@@ -1,0 +1,20 @@
+.edit-button{
+    background-color: #00A099;
+    color:white;
+    padding-right:20px;
+    padding-right:20px;
+    
+}
+
+.delete-button{
+    background-color: #D80B0B;
+    color:white;
+    padding-right:20px;
+    padding-right:20px;
+}
+
+.test{
+    margin-top:20px;
+    background-color:rgb(240, 245, 245);
+    border:1px solid rgb(75, 171, 176);
+}
